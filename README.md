@@ -1,27 +1,51 @@
-# Hi, I'm Amer 👋
+# Hi there! I'm Amer Cabonegro 👋
 
-I'm a BSIT graduate (Cavite State University – Carmona Campus, May 2025)
-and an aspiring web developer from the Philippines, currently focused on
-building solid foundations in backend and full-stack development with Laravel.
+I'm a **BS Information Technology graduate** from Cavite State University – Carmona, Philippines.
 
-I'm doing my OJT as a web developer, where I work with Laravel on real
-features — models, mailables, and maintaining legacy code — while sharpening
-my fundamentals through daily practice and self-study.
+I'm passionate about solving technical problems, supporting users, and building useful software. I'm currently pursuing entry-level opportunities in **IT Support, Service Desk, Application Support, Technical Support, and Junior Web Development**.
 
-### 🔭 What I'm working on
-- Deepening my Laravel skills (Eloquent, queues, mailables, notifications)
-- Building portfolio projects to apply what I'm learning
-- Getting comfortable with Git and clean, readable code
+## 💻 About Me
 
-### 🛠️ Tech I work with
-- **Backend:** PHP, Laravel
-- **Frontend:** HTML, CSS, JavaScript, jQuery
-- **Tools:** Git, MySQL
+- 🎓 Graduated with a BS in Information Technology in May 2025
+- 🧑‍💻 Completed a PHP/Laravel Web Development Bootcamp and OJT at HiveLabs Technologies Corp. (March–July 2026)
+- 🛠️ Gained hands-on experience with application features, bug fixes, email notifications, and database-related tasks
+- 🌐 Currently studying networking fundamentals through Cisco Networking Academy
+- 🤖 Exploring AI-assisted development while building practical side projects
+- 🎯 Working toward a career in IT support or software development
 
-### 🌱 Currently learning
-Laravel best practices via Laracasts, and how to write code I can reason
-about without relying on references.
+## 🛠️ Technologies & Tools
 
-### 📫 How to reach me
-- LinkedIn: [Amer Cabonegro](https://linkedin.com/in/amercabonegro)
-- Email: amer.cabonegro@gmail.com
+**Web Development:** PHP, Laravel, HTML, CSS, JavaScript, jQuery
+
+**Database:** MySQL
+
+**Development Tools:** Git, GitHub, GitLab, Jira, SourceTree
+
+**Currently Learning:** Networking fundamentals, IT troubleshooting, and technical support workflows
+
+## 🚀 Featured Project
+
+### Personal Portfolio Website
+
+My personal website showcasing my background, experience, technical skills, certifications, and projects.
+
+🌐 **[Visit My Portfolio](https://amercabonegro.github.io/)**
+
+💻 **[View Source Code](https://github.com/amercabonegro/amercabonegro.github.io)**
+
+## 📚 Currently Learning
+
+I'm continuing to develop my technical skills through hands-on projects, networking studies, and practical troubleshooting exercises.
+
+I believe in learning by building, understanding mistakes, and improving with each project.
+
+## 📫 Let's Connect
+
+- 🌐 [Portfolio](https://amercabonegro.github.io/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/amercabonegro/)
+- 📧 Email: amer.cabonegro@gmail.com
+- 📍 Laguna, Philippines
+
+---
+
+*Open to entry-level opportunities in IT Support, Service Desk, Application Support, Technical Support, and Junior Software Development.*
